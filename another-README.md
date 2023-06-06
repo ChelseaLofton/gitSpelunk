@@ -5,3 +5,5 @@ but do I really want to live like this?  how many times a day do I have to re-en
 Dear lord, I did this all on the main branch noooo....
 
 Well, I'm updating this line via branch, so that's good.  Testing testing testing
+
+Keeping troubleshooting notes about git config here: https://www.notion.so/Chelsea-Candace-Pairing-973809a9effa4b6087c746fa7235019c?pvs=4
